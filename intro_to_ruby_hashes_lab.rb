@@ -26,7 +26,7 @@ def monopoly_with_third_tier
 	    :pieces=>4,
 	    :rent_in_dollars=>{
 	      :level1=>{},:level2=>{},:level3=>{}, :level4=>{}
-	    }
+	    },
 	    :names=>{}
 	  }
 	}
