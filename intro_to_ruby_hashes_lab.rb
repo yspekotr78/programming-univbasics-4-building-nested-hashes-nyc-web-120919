@@ -27,7 +27,9 @@ def monopoly_with_third_tier
 	    :rent_in_dollars=>{
 	      :level1=>{},:level2=>{},:level3=>{}, :level4=>{}
 	    },
-	    :names=>{}
+	    :names=>{
+	      :level1=>{},:level2=>{},:level3=>{}, :level4=>{}
+	    }
 	  }
 	}
 end
